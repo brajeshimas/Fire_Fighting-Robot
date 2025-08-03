@@ -21,13 +21,13 @@ It supports both **autonomous fire detection** and **manual control** via an And
 
 ## 🧰 Technologies & Components Used
 
-- **Microcontroller**: 8051 / AVR / Arduino (specify what you used)
+- **Microcontroller**: Arduino Uno
 - **Sensors**: Flame sensor (IR), optional gas sensor
 - **Actuators**: DC motors for movement, fan/pump for extinguishing
 - **Wireless**: Bluetooth module (e.g., HC-05) for manual control
 - **Programming Language**: Embedded C / Arduino
 - **Control Interface**: Android mobile app (manual mode)
-- **Tools**: Keil uVision / Arduino IDE / Proteus (if simulation done)
+- **Tools**: Arduino IDE 
 
 ---
 
